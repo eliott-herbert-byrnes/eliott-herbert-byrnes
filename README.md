@@ -9,5 +9,3 @@ Previously, I created [Navis Docs](https://github.com/navis-docs/navis-docs), an
 I also contributed to [Kan.bn](https://github.com/kanbn/kan), an open-source alternative to Trello. I worked on features including archived boards, board favourites, editor embeds, checklist drag-and-drop, and card labelling.
 
 Before focusing more deeply on software, I worked across design, digital systems, risk operations, and research tooling. That mix still shapes how I build: I care about clean interfaces, practical workflows, and software that feels useful from the first interaction.
-
-You can reach me at [**eliott.c.h.byrnes@googlemail.com**](mailto:eliott.c.h.byrnes@googlemail.com) or find me on [LinkedIn](https://www.linkedin.com/in/eliott-herbert-byrnes).
